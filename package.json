@@ -1,0 +1,10 @@
+{
+  "name": "umbral-futurx",
+  "version": "1.0.0",
+  "description": "Asistente de IA para planes familiares de prevencion y evacuacion ante El Nino",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
